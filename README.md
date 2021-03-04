@@ -6,7 +6,7 @@
 - ![Axios Badge](https://img.shields.io/badge/Axios-0B2343?style=flat-square&logo=Axios&logoColor=white)
 
 ## 프로젝트 화면 및 소개
-- 메인 페이지
+- 메인 페이지  
 ![메인](./img/weather.png)
     - 클래스형 컴포넌트 사용
     - Axios 이용하여 API 호출
